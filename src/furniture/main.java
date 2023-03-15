@@ -48,7 +48,7 @@ public class main {
                             furniture p = items.get(i);
                             System.out.println("Data ke " + (i+1) + ". " + 
                                                "\nNama Barang : " + p.getName() +
-                                               "\nMerk Barang : " + p.getMerk() + " tahun" + 
+                                               "\nMerk Barang : " + p.getMerk() + 
                                                "\nHarga Barang:" + " Rp. " + p.getHarga() );
                         }
                     }
